@@ -1,9 +1,0 @@
-
-public class Book {
-
-	public static void main(String[] args) {
-		BookDatabase entry = new BookDatabase();
-		entry.addBook();
-	}
-
-}
